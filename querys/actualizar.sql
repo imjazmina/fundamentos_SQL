@@ -1,0 +1,1 @@
+UPDATE cursos set titulo = 'Curso intensivo de Python';
